@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2018-12-10",
+    "duration": 50,
+    "memory_used": 100,
+    "error": 10
+  },
+  {
+    "id": 2,
+    "date": "2018-12-11",
+    "duration": 20,
+    "memory_used": 200,
+    "error": 3
+  },
+  {
+    "id": 3,
+    "date": "2018-12-12",
+    "duration": 85,
+    "memory_used": 90,
+    "error": 6
+  },
+  {
+    "id": 4,
+    "date": "2018-12-13",
+    "duration": 100,
+    "memory_used": 85,
+    "error": 20
+  },
+  {
+    "id": 5,
+    "date": "2018-12-14",
+    "duration": 50,
+    "memory_used": 90,
+    "error": 13
+  }
+]
