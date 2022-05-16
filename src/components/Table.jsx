@@ -29,7 +29,7 @@ export default function DataTable() {
 
   return (
     <div style={{ height: 400, width: "100%" }}>
-      {columns ? <DataGrid rows={rows} columns={columns} /> : "cd"}
+      {columns ? <DataGrid rows={rows} columns={columns} /> : "Data Not found."}
     </div>
   );
 }
